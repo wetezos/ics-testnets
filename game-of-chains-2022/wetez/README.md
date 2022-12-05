@@ -11,7 +11,7 @@ Contents
 
 <!-- TODO: Spawn time & Proposal num -->
 * Timeline
-  * 2022-11-28: Spawn time: `2022-11-28T17:00:00.000000000Z`
+  * 2022-11-28: Spawn time: `2022-11-28T19:00:00.000000000Z`
   * 2022-11-26: Proposal 8 voting period ends
   * 2022-11-24: Proposal 8 goes into voting period
   * 2022-11-24: Genesis file without CCV state is generated
@@ -81,7 +81,7 @@ The genesis file with was generated using the following settings:
 * Denom: `uwetez`
 * Signed blocks window: `"8640"`
 * Genesis accounts were added to provide funds for a faucet and a relayer that will be run by the testnet coordinators.
-* Genesis file **without CCV state**: [`wetez-fresh-genesis.json`](wetez-fresh-genesis.json), SHA256: `b303575f68b5849f2e6ea42238252aa6e364a3cef3a8c0792a9f636b6b1451fd`
+* Genesis file **without CCV state**: [`wetez-fresh-genesis.json`](wetez-fresh-genesis.json), SHA256: `560d05e65416579bda9f42110196c933f017a7f7496d56449b7e90b8c1c5fe67`
   * **This is provided only for verification, this is not the genesis file validators should be running their nodes with.**
 
 ## Endpoints

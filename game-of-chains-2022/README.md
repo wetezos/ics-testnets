@@ -6,7 +6,7 @@ Game of Chains (GoC) is an incentivized testnet program that will help validator
 
 We have a number of rewards planned for GoC! Please remember that:
 * **Only Cosmos Hub validators in the active set are eligible to earn rewards in the Game of Chains testnet program.**
-* **Validators operated by employees of Informal Systems, Hypha, and Interchain Foundation are eligible to participate, but ineligible for rewards.** 
+* **Validators operated by employees of Informal Systems, Hypha, and Interchain Foundation are eligible to participate, but ineligible for rewards.**
 
 **Table of Contents**
 
@@ -20,7 +20,7 @@ We have a number of rewards planned for GoC! Please remember that:
 
 ## How to Join
 
-Fill out **[this form](https://interchainsecurity.dev/game-of-chains-2022)** to register in the program. 
+Fill out **[this form](https://interchainsecurity.dev/game-of-chains-2022)** to register in the program.
 
 A form will be made available in the Discord channel to request faucet tokens in the provider chain.
 
@@ -45,7 +45,7 @@ A form will be made available in the Discord channel to request faucet tokens in
 
 ## Overview
 
-Through the various GoC phases, validators are expected to build an understanding of ICS and help us discover interesting attack vectors. 
+Through the various GoC phases, validators are expected to build an understanding of ICS and help us discover interesting attack vectors.
 
 The testnet infrastructure will include:
 - Provider chain
@@ -59,7 +59,7 @@ Testnet coordinators will prepare and coordinate the start of several consumer c
 
 After the planned consumer chains have been successfully started, validators will be encouraged to start and stop any number of additional consumer chains for the remainder of the program. This will require some coordination with other validators to have proposals passed and ensure their consumer chains start.
 
-Testnet coordinators will provide guidance on how to join the testnet using scripts, Ansible playbooks, and required data (genesis files, peers, etc.) for the provider and planned consumer chains using this repo. 
+Testnet coordinators will provide guidance on how to join the testnet using scripts, Ansible playbooks, and required data (genesis files, peers, etc.) for the provider and planned consumer chains using this repo.
 
 Testnet coordinators will operate IBC relayers between the provider and planned consumer chains for the duration of the program.
 
@@ -137,7 +137,7 @@ Phase tasks
 * 👷 13. Sign on the first block of the Neutron chain (1 point)
 * 👷 14. Sign on the first block of the Gopher chain (1 point)
 * ~~👷 15. Sign on the first block of the Stride chain (1 point)~~
-* 👷 16. Sign on the last block of the Apollo chain without having been jailed for downtime since the first block (1 point) 
+* 👷 16. Sign on the last block of the Apollo chain without having been jailed for downtime since the first block (1 point)
 * **8 points maximum**
 
 #### Round 2: Start the Hero Consumer Chain
@@ -320,7 +320,7 @@ To earn points in the Game of Chains testnet program, you can:
 |----|---|----|----|
 | 21 | 20 | Run a relayer between a provider and consumer chain that relays at least 500 validator set changes | Consumer chain block heights with validator set updates |
 
-### 🌪 Chaotic Tasks 
+### 🌪 Chaotic Tasks
 
 **‼ 📢 Chaotic tasks can be completed at any point throughout the testnet program**
 
