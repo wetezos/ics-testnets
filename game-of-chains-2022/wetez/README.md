@@ -11,12 +11,12 @@ Contents
 
 <!-- TODO: Spawn time & Proposal num -->
 * Timeline
-  * 2022-11-28: Spawn time: `2022-11-28T19:00:00.000000000Z`
-  * 2022-11-26: Proposal 8 voting period ends
-  * 2022-11-24: Proposal 8 goes into voting period
+  * 2022-11-28: Spawn time: `2022-12-08T19:30:00.000000000Z`
+  * 2022-11-26: Proposal 68 voting period ends
+  * 2022-11-24: Proposal 68 goes into voting period
   * 2022-11-24: Genesis file without CCV state is generated
 
-Thank you for pointing out the issues in `prop-67`.  I encourage everyone to vote `no` on prop-67 due to the bad metadata that was found by this great community!
+Thank you for pointing out the issues in `prop-68`.  I encourage everyone to vote `no` on prop-68 due to the bad metadata that was found by this great community!
 
 `wetez` will launch as a consumer chain through a governance proposal in the `provider` chain. Read the [Consumer Chain Start Process](/docs/Consumer-Chain-Start-Process.md) page for more details about the workflow.
 

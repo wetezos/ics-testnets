@@ -1,6 +1,6 @@
 {
-    "title": "Create the wetez chain",
-    "description": "This corrects the issues found in prop-67. This is a new proposal (prop-67) to create the consumer chain \"wetez-1\". Visit https://github.com/wetezos/ics-testnets/tree/main/game-of-chains-2022/wetez/ for details on this proposal's data and how to join the chain.",
+    "title": "Create the wetez appchain",
+    "description": "I am sorry that I accidentally set the wrong spawn time in the previous proposal. Please vote for no for proposal-67 and Yes for 68.I am very sorry and grateful. This corrects the issues found in prop-68. This is a new proposal (prop-68) to create the consumer chain \"wetez-1\". Visit https://github.com/wetezos/ics-testnets/tree/main/game-of-chains-2022/wetez/ for details on this proposal's data and how to join the chain.",
     "chain_id": "wetez-1",
     "initial_height": {
         "revision_height": 1,
@@ -8,6 +8,6 @@
     },
     "genesis_hash": "560d05e65416579bda9f42110196c933f017a7f7496d56449b7e90b8c1c5fe67",
     "binary_hash": "a191e2ee64a457e4e341f660afeec395cebd3865b36a2eb1124c4a8332fca494",
-    "spawn_time": "2022-12-08T16:00:00.000000Z",
+    "spawn_time": "2022-12-08T19:30:00.000000000Z",
     "deposit": "1uprov"
 }

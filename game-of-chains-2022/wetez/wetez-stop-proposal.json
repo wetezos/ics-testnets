@@ -1,0 +1,7 @@
+{
+    "title": "Should we stop the wetez appchain or leave it running?",
+    "description": "This is a proposal to determine if the community wants to stop the wetez-1 chain.",
+    "chain_id": "wetez-1",
+    "stop_time": "2022-12-08T19:50:00.000000Z",
+    "deposit": "1uprov"
+}
